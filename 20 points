@@ -1,0 +1,20 @@
+1. Java is a high-level, object-oriented programming language.
+2. Java follows the principle "Write Once, Run Anywhere (WORA)".
+3. Java source code is stored in a .java file.
+4. Java code is compiled into bytecode (.class file).
+5. JVM (Java Virtual Machine) executes Java bytecode.
+6. JDK contains JRE and development tools like the compiler.
+7. JRE provides the environment to run Java programs.
+8. Every Java program starts execution from the main() method.
+9. Java is a case-sensitive language.
+10. A class is the blueprint of an object.
+11. An object is an instance of a class.
+12. Variables are used to store data in memory.
+13. Java has primitive and non-primitive data types.
+14. Scanner class is used to take input from the user.
+15. Operators perform operations on variables and values.
+16. Conditional statements help in decision making.
+17. Loops are used to execute a block of code repeatedly.
+18. Methods improve code reusability and readability.
+19. Arrays store multiple values of the same data type.
+20. OOP concepts in Java are Encapsulation, Inheritance, Polymorphism, and Abstraction.
