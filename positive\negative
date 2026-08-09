@@ -1,0 +1,10 @@
+Class condition{
+public static void main (String args[]){
+ int a=10;
+ if(n>=0);
+ system.out.println ("positive");
+ else
+ system.out.println ("negative")
+ }
+ }
+ 
